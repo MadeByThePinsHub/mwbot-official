@@ -1,0 +1,13 @@
+{
+ "name": "mwbot-madebythepins",
+ "version": 0.5.0,
+ "description": "An package for the Pins team's MW bots.",
+ "main": "launch-mwbot.js"
+ "scripts": "node launch-mwbot.js",
+ "license": "MIT",
+ ""dependencies":
+  "mediawiki": ""0.0.14",
+ "engines": {
+  "node": "10.x"
+  }
+}
